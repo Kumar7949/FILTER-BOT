@@ -181,7 +181,7 @@ AUTO_APPROVE_MODE = bool(environ.get('AUTO_APPROVE_MODE', False)) # Set True or 
 REACTIONS = ["🤝", "😇", "🤗", "😍", "👍", "🎅", "😐", "🥰", "🤩", "😱", "🤣", "😘", "👏", "😛", "😈", "🎉", "⚡️", "🫡", "🤓", "😎", "🏆", "🔥", "🤭", "🌚", "🆒", "👻", "😁"] #don't add any emoji because tg not support all emoji reactions
 
 
-if MULTIPLE_DATABASE == False:
+if MULTIPLE_DATABASE == True:
     USER_DB_URI = DATABASE_URI
     OTHER_DB_URI = DATABASE_URI
     FILE_DB_URI = DATABASE_URI
