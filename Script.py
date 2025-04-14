@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ :@KAB_Movies {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" @Devi_Movies
+<b>⚙️ sɪᴢᴇ : {file_size}@Devi_Movies</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
