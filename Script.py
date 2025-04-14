@@ -246,7 +246,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ :@KAB_Movies {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}@Devi_Movies</b>"""
+<b>⚙️ sɪᴢᴇ : {file_size} @Devi_Movies  
+📥 JOIN ➼ @TeluguTvSerials_Shows </b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
