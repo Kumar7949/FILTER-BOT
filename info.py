@@ -90,8 +90,8 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/KAB_Movies')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/KAB_Movies')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', '')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@Teleguhdmovies_bot') # Support Chat Link Without https:// or @
+OWNER_LNK = environ.get('OWNER_LNK', '@Teleguhdmovies_bot')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
